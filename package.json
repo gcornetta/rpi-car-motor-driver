@@ -1,0 +1,14 @@
+{
+  "name": "Motor",
+  "version": "1.0.0",
+  "description": "RPi Car Motor Driver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gianluca Cornetta",
+  "license": "MIT",
+  "dependencies": {
+    "pigpio": "3.3.1"
+  }
+}
